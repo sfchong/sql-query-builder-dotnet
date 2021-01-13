@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlQueryBulders.Core", "SqlQueryBulders.Core\SqlQueryBulders.Core.csproj", "{76B5BE8B-A54F-4EBB-B21D-7A131AC93C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlQueryBuilders.TestProgram", "SqlQueryBuilders.TestProgram\SqlQueryBuilders.TestProgram.csproj", "{F01E97DC-7ABE-4A77-A6F2-2BA2F9BA316E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B5BE8B-A54F-4EBB-B21D-7A131AC93C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B5BE8B-A54F-4EBB-B21D-7A131AC93C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B5BE8B-A54F-4EBB-B21D-7A131AC93C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B5BE8B-A54F-4EBB-B21D-7A131AC93C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01E97DC-7ABE-4A77-A6F2-2BA2F9BA316E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01E97DC-7ABE-4A77-A6F2-2BA2F9BA316E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01E97DC-7ABE-4A77-A6F2-2BA2F9BA316E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01E97DC-7ABE-4A77-A6F2-2BA2F9BA316E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1938A004-A153-45E5-98EF-7627A0B0B457}
+	EndGlobalSection
+EndGlobal
